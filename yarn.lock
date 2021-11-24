@@ -574,11 +574,12 @@ uri-js@^4.2.2:
   dependencies:
     punycode "^2.1.0"
 
-vue-class-stores-generators@^0.0.60:
-  version "0.0.60"
-  resolved "https://registry.yarnpkg.com/vue-class-stores-generators/-/vue-class-stores-generators-0.0.60.tgz#3424ca6e75e57dba6c8e9df7325af0c4bd9c5775"
-  integrity sha512-pNPhjpCjFHPaR2m1x24mbLX4ggMVezhd8rm8QED6lwOH60qJ238ib1DxUXbb39ChLZCtlchbXPK2w7nUWkjwNA==
+vue-class-stores-generators@^0.0.68:
+  version "0.0.68"
+  resolved "https://registry.yarnpkg.com/vue-class-stores-generators/-/vue-class-stores-generators-0.0.68.tgz#0b4b2468090542bb44c89a3c4abddb4fe07599dc"
+  integrity sha512-5LQYp16WECu04+Bq3wlCPESY/phLafuFmt0h8yr61OxWWTTSh1VyZfKF8duWv+4LUY9jV3xdObs6bD7hHdJXOQ==
   dependencies:
+    chokidar "^3.5.2"
     semver "^7.3.5"
 
 watchpack@^2.2.0:
